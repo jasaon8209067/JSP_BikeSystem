@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ page import="java.sql.*"%>
-<%--<%@ include file="/Util_IO.jsp" %>--%>
+<%@ include file="/Util_IO.jsp" %>
 <%@ include file="Kernel.jsp" %>
 <%
     request.setCharacterEncoding("UTF-8");
